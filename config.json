@@ -1,0 +1,8 @@
+{
+  "lzt_token": "",
+  "tg_bot_token": "",
+  "tg_user_id": 123,
+  "thread_ids": "123,123",
+  "delay_hours": 18,
+  "delay_if_api_disabled_minutes": 60
+}
